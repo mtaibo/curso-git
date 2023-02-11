@@ -1,0 +1,11 @@
+[33mcommit 2da2f3d961ab7ecf69843866659ac59cfca8195c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Miguel Taibo <mitaiboperez@gmail.com>
+Date:   Sat Feb 11 09:56:39 2023 +0100
+
+    Contenido del blog
+
+[33mcommit d9da0c151fe328144c8b8f58892ee151be302eef[m
+Author: Miguel Taibo <mitaiboperez@gmail.com>
+Date:   Sat Feb 11 09:39:44 2023 +0100
+
+    Añadido index.html
